@@ -14,12 +14,13 @@ body {
     flex-basis: 100px;
     display: flex;
     /*flex: 1;*/
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
 }
 
 .header-logo-title {
     font-size: 24px;
+    margin-left: 150px;
 }
 
 .header-links {
@@ -39,6 +40,8 @@ body {
 .main-info-container {
     background-color: #1f2937;
     color: #f9faf8;
+    display: flex;
+    padding: 150px;
 }
 
 .main-info-container button {
@@ -49,4 +52,10 @@ body {
     border-radius: 8px;
     font-weight: 700;
     font-size: 15px;
+}
+
+.main-info-container .main-text {
+    font-size: 48px;
+    color: #f9faf8;
+    font-weight: 900;
 }
