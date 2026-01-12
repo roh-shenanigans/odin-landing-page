@@ -113,3 +113,24 @@ body {
     height: 100%;
     object-fit: cover;
 }
+
+/*-----------------------------------------------------------------*/
+
+.quote-container {
+    background-color: #e5e7eb;
+    padding: 70px 350px;
+}
+
+.quote-container .quote {
+    font-weight: 300;
+    font-size: 36px;
+    font-style: italic;
+}
+
+.quote-container .author {
+    text-align: right;
+    font-weight: 700;
+    font-size: 18px;
+}
+
+/*-----------------------------------------------------------------*/
