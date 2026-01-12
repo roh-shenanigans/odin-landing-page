@@ -38,4 +38,15 @@ body {
 
 .main-info-container {
     background-color: #1f2937;
+    color: #f9faf8;
+}
+
+.main-info-container button {
+    background-color: #3882f6;
+    color: #f9faf8;
+    padding: 8px 32px;
+    border: none;
+    border-radius: 8px;
+    font-weight: 700;
+    font-size: 15px;
 }
