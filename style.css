@@ -183,3 +183,17 @@ body {
 .sign-up-box .subtext {
     color: #e5e7eb;
 }
+
+/*-----------------------------------------------------------------*/
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 150px;
+}
+
+.footer p {
+    color: #e5e7eb;
+    font-size: 15px;
+}
